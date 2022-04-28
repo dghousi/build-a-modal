@@ -1,6 +1,6 @@
 # Building a modal using javascript language
 
-# <a href=" https://dghousi.github.io/build-a-modal/" target="_blank"> Demo Link </a>
+[Click Demo Link](https://dghousi.github.io/build-a-modal/)
 
 <img src="screenshots/close_modal.png" style="width:800px;height:300px;">
 

@@ -27,3 +27,10 @@ html, body {
   3) Add a height of 200px
   4) Add a margin of 0 & auto to make sure our Modal is centered
 **/
+#modal {
+  background-color: orange;
+  padding: 20px;
+  height: 200px;
+  margin: 0 auto;
+  max-width: 600px;
+}
